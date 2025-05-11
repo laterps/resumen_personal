@@ -1,0 +1,12 @@
+# No subir la memoria emocional en texto plano
+memoria_emocional.txt
+
+# No subir la última entrada recibida
+entrada_reciente.txt
+
+# No subir copias locales de entradas por día
+entradas/
+
+# Archivos temporales o de respaldo
+*.bak
+*.tmp
